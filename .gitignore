@@ -1,0 +1,5 @@
+node_modules
+example/build.js
+lib
+npm-debug.log
+.DS_Store
